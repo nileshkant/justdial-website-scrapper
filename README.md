@@ -1,5 +1,9 @@
 # [Justdial Scraper](https://nileshkant.github.io/justdial-website-scrapper/)
 
+![alt text][logo]
+
+[logo]: https://i.imgur.com/IZAwGLg.jpg 'Justdial data extractor'
+
 An automation script written in Node.js, powered by Puppeteer to scrap multiple pages of Justdial (an Indian Yellow Pages website) and exports specific information in JSON format.
 
 > **Disclaimer**  
